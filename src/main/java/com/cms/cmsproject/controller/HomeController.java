@@ -1,4 +1,4 @@
-package com.cmsproject.controller;
+package com.cms.cmsproject.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
